@@ -1,3 +1,9 @@
+# Instalar as dependencias das Bibliotecas usando pip isntall:
+# pip install webdriver_manager / pip install selenium 
+# Instalar o navegador Googl chrome 
+# Abrir o programar como adm
+# Ver se o python está selecionado como interpretador no VS code 
+
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
